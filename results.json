@@ -1,0 +1,26 @@
+{
+    "https://www.apple.com/ua/": {
+        "h1": 1,
+        "h2": 4,
+        "h3": 11,
+        "h4": 3,
+        "h5": 1,
+        "h6": 0
+    },
+    "https://www.olx.ua/uk/": {
+        "h1": 0,
+        "h2": 2,
+        "h3": 0,
+        "h4": 1,
+        "h5": 0,
+        "h6": 0
+    },
+    "https://workspace.google.com/intl/ru/gmail/": {
+        "h1": 1,
+        "h2": 2,
+        "h3": 19,
+        "h4": 1,
+        "h5": 0,
+        "h6": 0
+    }
+}
